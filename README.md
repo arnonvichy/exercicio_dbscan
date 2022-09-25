@@ -1,0 +1,1 @@
+Neste exercício, simulamos ser donos de um supermercado e, por meio de cartões de associado, temos alguns dados básicos sobre os clientes como ID, idade, sexo, renda anual e score de gastos. A pontuação de gastos é algo que se atribui ao cliente com base em parâmetros definidos, como comportamento do cliente e dados de compra.
